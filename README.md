@@ -12,14 +12,14 @@ This thread is my favorite as it has no connection whatsover with the original p
 
 ## Bot Counter
 ```  
-len(comments)= 927
-len(top_level_comments)= 67
-len(replies)= 860
-len(valid_top_level_comments)= 37
-len(not_self_replies)= 833
-len(valid_replies)= 758
+len(comments)= 1000
+len(top_level_comments)= 53
+len(replies)= 947
+len(valid_top_level_comments)= 35
+len(not_self_replies)= 921
+len(valid_replies)= 852
 ========================================
-valid_comments= 795
+valid_comments= 887
 ========================================
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```  
