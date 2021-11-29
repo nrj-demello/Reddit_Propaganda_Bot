@@ -25,4 +25,5 @@ NOTE: the number valid_comments is what will be used to determine your extra cre
 ```  
 
 ## Score
-I believe my score should be 18 for the for the bot.py tasks, and 2 for the github repo.
+I believe my score should be 18 for the for the bot.py tasks, 2 for the github repo, and 4 points in extra credit (for the 100 and 500 valid comments).
+This means a total of 24 points.
